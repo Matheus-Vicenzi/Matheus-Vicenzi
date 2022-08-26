@@ -1,8 +1,29 @@
-Olá, Me chamo Matheus, atualmente atuo como desenvolvedor da Linguagem Intersystem CACHÉ, mas nas horas vagas desenvolvo em Python, Html, CSS, Java, JavaScript e SQL
+# 😀 Quem sou eu
+👨‍💻 Meu nome é Matheus Vicenzi, tenho como hobbie assistir series, sair com os amigos e programar
 
-Gosto principalmente de criar scripts de automações de processos, utilizando bibliotecas como Selenium, e de desafios.
+🟢 Atualmente trabalho na <a href="https://www.customax.com.br/" rel="nofollow">Customax</a>
 
-<!---
-Matheus-Vicenzi/Matheus-Vicenzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🏫 Em constante aprendizado, atualmente meus estudos estão focados nas linguagens Python, Java, e no desenvolvimento web com HTML, CSS e JavaScript
+
+# 🐱‍🐉 Tecnologias
+
+<ul>
+  <li>
+    ✔ Python
+  </li>
+  <li>
+    ✔ Java
+  </li>
+  <li>
+    ✔ JavaScript
+  </li>
+  <li>
+    ✔ HTML
+  </li>
+  <li>
+    ✔ CSS
+  </li>
+</ul>
+
+
+
