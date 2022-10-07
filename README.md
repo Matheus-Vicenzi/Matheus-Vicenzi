@@ -27,6 +27,9 @@
   <li>
     ✔ CSS
   </li>
+  <li>
+    ✔ CACHÉ
+  </li>
 </ul>
 
 
