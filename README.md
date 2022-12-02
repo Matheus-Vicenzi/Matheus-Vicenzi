@@ -1,7 +1,7 @@
 # 😀 Quem sou eu
 👨‍💻 Meu nome é Matheus Vicenzi, tenho como hobbie assistir series, sair com os amigos e programar
 
-🟢 Atualmente trabalho na <a href="https://www.customax.com.br/" rel="nofollow">Customax</a> como desenvolvedor
+🟢 Atualmente trabalho na <a href="https://www.neomind.com.br/" rel="nofollow">Customax</a> como desenvolvedor
 
 📚 Estudo análise e desenvolvimento de sistemas no SENAI Joinville
 
