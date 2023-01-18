@@ -7,8 +7,6 @@
 
 👨‍🏫 Monitor no SENAI Joinville, auxiliando outros alunos nas matérias de lógica de programação e programação orientada a objetos
 
-🏫 Em constante aprendizado, atualmente meus estudos estão focados nas linguagens Python, Java, e no desenvolvimento web com HTML, CSS e JavaScript
-
 # 🐱‍🐉 Tecnologias
 
 <ul>
@@ -26,9 +24,6 @@
   </li>
   <li>
     ✔ CSS
-  </li>
-  <li>
-    ✔ CACHÉ
   </li>
 </ul>
 
