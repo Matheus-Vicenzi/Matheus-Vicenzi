@@ -11,7 +11,7 @@
 
 <ul>
   <li>
-    ✔ Python
+   - ✔ Python
   </li>
   <li>
     ✔ Java
