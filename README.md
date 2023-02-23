@@ -37,6 +37,9 @@
   <li>
     ✔ Docker
   </li>
+  <li>
+    ✔ Apache Tomcat
+  </li>
 </ul>
 
 
