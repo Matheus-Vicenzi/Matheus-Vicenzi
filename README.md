@@ -25,6 +25,18 @@
   <li>
     ✔ CSS
   </li>
+  <li>
+    ✔ SQL Server
+  </li>
+  <li>
+    ✔ MySQL
+  </li>
+  <li>
+    ✔ NodeJS
+  </li>
+  <li>
+    ✔ Docker
+  </li>
 </ul>
 
 
