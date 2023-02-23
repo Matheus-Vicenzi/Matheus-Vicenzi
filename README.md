@@ -5,7 +5,7 @@
 
 📚 Estudo análise e desenvolvimento de sistemas no SENAI Joinville
 
-👨‍🏫 Monitor no SENAI Joinville, auxiliando outros alunos nas matérias de lógica de programação e programação orientada a objetos
+<!-- 👨‍🏫 Monitor no SENAI Joinville, auxiliando outros alunos nas matérias de lógica de programação e programação orientada a objetos -->
 
 # 🐱‍🐉 Tecnologias
 
